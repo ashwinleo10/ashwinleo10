@@ -102,7 +102,7 @@ Focused on creating interactive user interfaces and improving React development 
   <img src="https://streak-stats.demolab.com?user=ashwinleo10&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2 align="left">&lt; Connect With Me /&gt;</h2>
+<h2 align="center">&lt; Connect With Me /&gt;</h2>
 
 <p align="center">
   <a href="https://github.com/ashwinleo10" target="_blank">
@@ -115,5 +115,5 @@ Focused on creating interactive user interfaces and improving React development 
 
 <hr/>
 
-<h2 align="center"><i>“Smile, Breathe and Believe in Magic 🍃”</i></h2>
+<h2 align="center"><i>Smile, Breathe and Believe in Magic 🍃</i></h2>
 
