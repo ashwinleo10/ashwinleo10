@@ -59,22 +59,37 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-## 🚀 Featured Projects
+
+## Featured Projects
 
 ### 1. Employee Management System
-- Developed using Java and Spring Boot.
-- Implementing employee CRUD operations.
-- Database integration with SQL.
+Developed a web application to manage employee records with CRUD operations and database integration.  
+Implemented backend functionality using Spring Boot and Hibernate to interact with a MySQL database.
+
+**Tech Stack:** Java, Spring Boot, Hibernate, MySQL
+
+[View Repository](YOUR_EMPLOYEE_PROJECT_URL)
+
+---
 
 ### 2. EV Battery Health Prediction
-- Machine learning project focused on battery Remaining Useful Life (RUL) prediction.
-- Explores LSTM networks and time-series data.
+Developed a machine learning project to predict the Remaining Useful Life (RUL) of electric vehicle batteries using historical battery data.  
+Explored LSTM neural networks for time-series analysis and battery health prediction.
 
-### 3. React Projects
-- Building interactive user interfaces with React.
-- Practicing hooks, component reuse, routing, and state management.
+**Tech Stack:** Python, LSTM, TensorFlow, NumPy, Pandas
 
-> Add the repository links below when your projects are published.
+[View Repository](https://github.com/ashwinleo10/EV-Battery-Health-Prediction-Using-LSTM)
+
+---
+
+### 3. React Development Projects
+Built frontend applications to practice reusable components, React Hooks, routing, and state management.  
+Focused on creating interactive user interfaces and improving React development skills.
+
+**Tech Stack:** JavaScript, React, CSS
+
+[View Repository](YOUR_REACT_PROJECT_URL)
+
 
 ## 📊 GitHub Statistics
 
