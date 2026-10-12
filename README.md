@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Building+Real-World+Projects;Developing+Full+Stack+Applications;Strengthening+Problem-Solving+Skills;Looking+for+Software+Engineering+Opportunities" alt="Typing SVG" />
 </p>
 
-<h2 align="left">&lt; About Me /&gt;</h2>
+<h2 align="left">&lt; Who I Am /&gt;</h2>
 
 - 2026 graduate passionate about software development and problem-solving.
 - Building full-stack applications using Java, Spring Boot, React, and SQL.
@@ -21,27 +21,45 @@
 - Aspiring Software Engineer focused on building practical solutions to real-world problems.
 
 
-## 🛠️ Tech Stack
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="24" /> Tech Stack & Skills
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite" alt="React and Vite" />
-</p>
+### Frameworks & APIs
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot and MySQL" />
-</p>
+### AI / ML Concepts
+![LSTM](https://img.shields.io/badge/LSTM-6A5ACD?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4169E1?style=for-the-badge)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2E8B57?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-228B22?style=for-the-badge)
+![GAN](https://img.shields.io/badge/GAN-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF8C00?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-4682B4?style=for-the-badge)
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
-</p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Tools
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## 🚀 Featured Projects
 
