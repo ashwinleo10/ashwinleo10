@@ -20,9 +20,7 @@
 - Interested in collaborating on meaningful projects and contributing to open-source communities.
 - Aspiring Software Engineer focused on building practical solutions to real-world problems.
 
-
-
-##<h2 align="left">&lt; Tech Stack & Skills /&gt;</h2>
+<h2 align="left">&lt; Tech Stack & Skills /&gt;</h2>
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
