@@ -104,7 +104,7 @@ Focused on creating interactive user interfaces and improving React development 
 
 <h2 align="left">&lt; Connect With Me /&gt;</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ashwinleo10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -115,7 +115,5 @@ Focused on creating interactive user interfaces and improving React development 
 
 <hr/>
 
-<p align="center">
-  <h2><i>“Smile, Breathe and Believe in Magic”</i></h2>
-</p>
+<h2 align="center"><i>“Smile, Breathe and Believe in Magic 🍃”</i></h2>
 
