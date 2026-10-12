@@ -5,12 +5,11 @@
   </a>
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Building+Real-World+Projects;Developing+Full+Stack+Applications;Strengthening+Problem-Solving+Skills;Looking+for+Software+Engineering+Opportunities" alt="Typing SVG" />
 </p>
 
-## About Me
+<h2 align="left">&lt; About Me /&gt;</h2>
 
 - 2026 graduate passionate about software development and problem-solving.
 - Building full-stack applications using Java, Spring Boot, React, and SQL.
