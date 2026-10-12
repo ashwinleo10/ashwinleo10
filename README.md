@@ -1,11 +1,10 @@
-
-
 <h1 align="center">
-  Hi 👋, I'm Ashwin |
+  Hi 👋, I'm Ashwin
   <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/%3E_Portfolio.exe-Open-161B22?style=flat-square&logo=github&logoColor=white" alt="Open Portfolio" />
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Building+Real-World+Projects;Developing+Full+Stack+Applications;Strengthening+Problem-Solving+Skills;Looking+for+Software+Engineering+Opportunities" alt="Typing SVG" />
