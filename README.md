@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Building+Real-World+Projects;Developing+Full+Stack+Applications;Strengthening+Problem-Solving+Skills;Looking+for+Software+Engineering+Opportunities" alt="Typing SVG" />
 </p>
----
 
 ## About Me
 
