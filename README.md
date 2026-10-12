@@ -22,7 +22,7 @@
 
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="24" /> Tech Stack & Skills
+##<h2 align="left">&lt; Tech Stack & Skills /&gt;</h2>
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
