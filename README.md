@@ -1,17 +1,11 @@
 
+
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-<h3 align="center">Java Full Stack Developer | Aspiring Software Engineer</h3>
-
 <p align="center">
-  Building web applications and solving problems through code.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+%7C+Spring+Boot+Developer;React+Developer;Building+Projects+and+Learning+DSA" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
 
 ---
 
