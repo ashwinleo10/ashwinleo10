@@ -2,7 +2,9 @@
 
 <h1 align="center">
   Hi 👋, I'm Ashwin |
-  <a href="https://your-portfolio-url.com">🌐 Portfolio</a>
+  <a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/%3E_Portfolio.exe-Open-161B22?style=flat-square&logo=github&logoColor=white" alt="Open Portfolio" />
+</a>
 </h1>
 
 <p align="center">
