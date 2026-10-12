@@ -60,7 +60,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
-## Featured Projects
+## <h2 align="left">&lt; Featured Projects /&gt;</h2>
 
 ### 1. Employee Management System
 Developed a web application to manage employee records with CRUD operations and database integration.  
