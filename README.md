@@ -60,7 +60,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
-<h2 align="left">&lt; Featured Projects /&gt;</h2>
+<h2 align="left">&lt; Projects /&gt;</h2>
 
 ### 1. Employee Management System
 Developed a web application to manage employee records with CRUD operations and database integration.  
@@ -102,20 +102,20 @@ Focused on creating interactive user interfaces and improving React development 
   <img src="https://streak-stats.demolab.com?user=ashwinleo10&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<h2 align="left">&lt; Connect With Me /&gt;</h2>
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<p align="left">
+  <a href="https://github.com/ashwinleo10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/ashwin226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
+<hr/>
 
 <p align="center">
-  <i>"Learning every day. Building one project at a time."</i>
+  <h2><i>“Smile, Breathe and Believe in Magic”</i></h2>
 </p>
+
