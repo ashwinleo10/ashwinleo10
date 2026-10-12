@@ -9,20 +9,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Building+Real-World+Projects;Developing+Full+Stack+Applications;Strengthening+Problem-Solving+Skills;Looking+for+Software+Engineering+Opportunities" alt="Typing SVG" />
 </p>
-
-
-
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 2026 graduate passionate about software development
-- ☕ Learning Java, Spring Boot, and backend development
-- 🌐 Building responsive web applications with JavaScript and React
-- 🗄️ Working with SQL and relational databases
-- 🧠 Practicing Data Structures and Algorithms using Java
-- 🚀 Interested in building real-world projects and learning new technologies
-- 🎯 Aspiring Software Engineer
+- 2026 graduate passionate about software development and problem-solving.
+- Building full-stack applications using Java, Spring Boot, React, and SQL.
+- Interested in developing scalable, maintainable, and user-friendly applications.
+- Practicing Data Structures and Algorithms using Java to strengthen problem-solving skills.
+- Exploring REST APIs, database integration, and full-stack application development.
+- Continuously learning new technologies and improving my software development skills.
+- Interested in collaborating on meaningful projects and contributing to open-source communities.
+- Aspiring Software Engineer focused on building practical solutions to real-world problems.
+
 
 ## 🛠️ Tech Stack
 
