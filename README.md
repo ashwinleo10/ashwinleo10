@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi 👋, I'm Ashwin
+  Hi 👋, I'm Ashwin | 
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge" alt="Portfolio" />
   </a>
 </h1>
 
