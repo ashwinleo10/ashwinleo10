@@ -62,13 +62,13 @@
 
 <h2 align="left">&lt; Projects /&gt;</h2>
 
-### 1. Employee Management System
-Developed a web application to manage employee records with CRUD operations and database integration.  
-Implemented backend functionality using Spring Boot and Hibernate to interact with a MySQL database.
+### 1. AÚN — Clothing E-Commerce Platform
+Developed a clothing e-commerce application with customer and admin functionalities, 
+including product management, cart, wishlist, orders, and checkout.
 
-**Tech Stack:** Java, Spring Boot, Hibernate, MySQL
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, React, MySQL, Hibernate
 
-[View Repository](YOUR_EMPLOYEE_PROJECT_URL)
+[View Repository](https://github.com/ashwinleo10/aun-ecommerce)
 
 ---
 
@@ -81,14 +81,6 @@ Explored LSTM neural networks for time-series analysis and battery health predic
 [View Repository](https://github.com/ashwinleo10/EV-Battery-Health-Prediction-Using-LSTM)
 
 ---
-
-### 3. React Development Projects
-Built frontend applications to practice reusable components, React Hooks, routing, and state management.  
-Focused on creating interactive user interfaces and improving React development skills.
-
-**Tech Stack:** JavaScript, React, CSS
-
-[View Repository](YOUR_REACT_PROJECT_URL)
 
 
 <h2 align="left">&lt; GitHub Statistics /&gt;</h2>
